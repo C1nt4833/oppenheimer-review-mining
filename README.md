@@ -18,5 +18,5 @@ Proyek ini menganalisis sentimen dari ulasan film *Oppenheimer* yang diambil dar
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/oppenheimer-sentiment-analysis.git
-   cd oppenheimer-sentiment-analysis
+   git clone https://github.com/C1nt4833/oppenheimer-review-mining.git
+   cd oppenheimer-review-mining
