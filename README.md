@@ -20,3 +20,12 @@ Proyek ini menganalisis sentimen dari ulasan film *Oppenheimer* yang diambil dar
    ```bash
    git clone https://github.com/C1nt4833/oppenheimer-review-mining.git
    cd oppenheimer-review-mining
+2. Buat & aktifkan  Virtual Environment (Windows)
+   '''bash
+   python -m venv venv
+   venv\Scripts\activate
+3. Install dependencies
+   '''bash
+   pip install -r requiments.txt
+4. Jalankan Analisis
+   
